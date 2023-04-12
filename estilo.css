@@ -25,4 +25,9 @@
 
 .livros {
     background-image: linear-gradient(#4C49E0 100%,  #4C49E0 0%);
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 36px 0;
 }
